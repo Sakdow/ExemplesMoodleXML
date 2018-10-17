@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<quiz>
+<question type="category">
+    <category>
+        <text>$course$/MultipleChoiceQuestion.xml</text>
+    </category>
+    <category>
+        <text>$course$/PairMatchingQuestion.xml</text>
+    </category>
+</question>
+</quiz>
